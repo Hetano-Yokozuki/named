@@ -1,0 +1,23 @@
+managed-keys-zone: loaded serial 0
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone example.com/IN: loaded serial 2016050204
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+zone example.com/IN: sending notifies (serial 2016050204)
+no longer listening on 192.168.64.10#53
+listening on IPv4 interface ens33, 192.168.64.10#53
+error (network unreachable) resolving 'github.com/AAAA/IN': 2001:503:eea3::30#53
+error (network unreachable) resolving 'github.com/A/IN': 2001:503:eea3::30#53
+error (network unreachable) resolving 'ns2.p16.dynect.net/A/IN': 2001:503:d2d::30#53
+error (network unreachable) resolving 'ns2.p16.dynect.net/A/IN': 2001:503:39c1::30#53
+error (network unreachable) resolving 'ns-1283.awsdns-32.org/A/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'ns-1283.awsdns-32.org/AAAA/IN': 2001:500:c::1#53
+error (network unreachable) resolving 'ns-1707.awsdns-21.co.uk/A/IN': 2600:9000:5303:9500::1#53
+error (network unreachable) resolving 'ns-1707.awsdns-21.co.uk/A/IN': 2600:9000:5307:1900::1#53
+error (network unreachable) resolving 'ns-1707.awsdns-21.co.uk/A/IN': 2600:9000:5301:5500::1#53
+error (network unreachable) resolving 'ns-1707.awsdns-21.co.uk/A/IN': 2600:9000:5305:d800::1#53
+error (network unreachable) resolving 'ns2.p16.dynect.net/A/IN': 2600:2000:1001::21#53
