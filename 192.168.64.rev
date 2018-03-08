@@ -1,0 +1,10 @@
+$TTL    86400
+@       IN      SOA     example.com. root.example.com. (
+                                2000121201      ; Serial
+                                3600    ; Refresh
+                                900     ; Retry
+                                3600000 ; Expire
+                                3600 )  ; Minimum
+@               IN      NS      dns.example.com.
+10              IN      PTR     dns.
+
