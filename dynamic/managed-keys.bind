@@ -1,13 +1,13 @@
 $ORIGIN .
 $TTL 0	; 0 seconds
 @			IN SOA	. . (
-				2          ; serial
+				3          ; serial
 				0          ; refresh (0 seconds)
 				0          ; retry (0 seconds)
 				0          ; expire (0 seconds)
 				0          ; minimum (0 seconds)
 				)
-			KEYDATA	20180308134831 20180307134831 19700101000000 257 3 8 (
+			KEYDATA	20180312050757 20180307134831 19700101000000 257 3 8 (
 				AwEAAagAIKlVZrpC6Ia7gEzahOR+9W29euxhJhVVLOyQ
 				bSEW0O8gcCjFFVQUTf6v58fLjwBd0YI0EzrAcQqBGCzh
 				/RStIoO8g0NfnfL2MTJRkxoXbfDaUeVPQuYEhg37NZWA
@@ -17,7 +17,7 @@ $TTL 0	; 0 seconds
 				Yl7OyQdXfZ57relSQageu+ipAdTTJ25AsRTAoub8ONGc
 				LmqrAmRLKBP1dfwhYB4N7knNnulqQxA+Uk1ihz0=
 				) ; KSK; alg = RSASHA256; key id = 19036
-			KEYDATA	20180308134831 20180307134831 19700101000000 257 3 8 (
+			KEYDATA	20180312050757 20180307134831 19700101000000 257 3 8 (
 				AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTO
 				iW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN
 				7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5

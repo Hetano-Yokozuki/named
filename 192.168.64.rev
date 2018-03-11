@@ -7,4 +7,5 @@ $TTL    86400
                                 3600 )  ; Minimum
 @               IN      NS      dns.example.com.
 10              IN      PTR     dns.
+130             IN      PTR     webrick.example.com.
 

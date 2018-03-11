@@ -10,3 +10,5 @@ $TTL    86400
 
 @               IN      NS      dns 
 dns             IN      A       192.168.64.10
+webrick         IN      A       192.168.64.130
+
